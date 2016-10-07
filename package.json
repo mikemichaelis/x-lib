@@ -1,0 +1,41 @@
+{
+  "name": "xsd-lib",
+  "version": "0.0.11",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/username/repo"
+  },
+  "author": {
+    "name": "mikemichaelis",
+    "email": "mike@xsdconsulting.com"
+  },
+  "keywords": [
+    "angular",
+    "angular2"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/username/repo/issues"
+  },
+  "main": "./lib/xsd-lib.js",
+  "typings": "./lib/xsd-lib.d.ts",
+  "dependencies": {
+    "@angular/core": "^2.0.2",
+    "@angular/common": "^2.0.2",
+    "rxjs": "^5.0.0-beta.12"
+  },
+  "devDependencies": {
+    "@angular/core": "2.0.0",
+    "@types/core-js": "^0.9.34",
+    "codelyzer": "^1.0.0-beta.0",
+    "tslint": "^3.15.1",
+    "typescript": "^2.0.2",
+    "zone.js": "0.6.23"
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}

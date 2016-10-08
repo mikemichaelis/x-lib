@@ -12,4 +12,4 @@ export {
     exports: [XSDComponent]
 })
 export class XSDLibModule {}
-export default XSDLibModule;
+//export default XSDLibModule;
